@@ -11,7 +11,7 @@ npm install -g parcel-bundler
 ## Open project directory and run
 
 ```
-
+npm install
 parcel index.html
 ```
 
